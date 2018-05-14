@@ -1,0 +1,9 @@
+57b1ff961a07ff9cae6f65f51ad81153 *DESCRIPTION
+74dc03f57e7e41e8db6361b28a2772fe *LICENSE
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+e6b9dca2f09d5e4123de58f5684e39d3 *NEWS.md
+c161b9a17d352c0f5535af0e4e6cbbc9 *R/onLoad.R
+a3e194cb438bdb89c7a76a951d96a258 *R/tabulizerjars.R
+882351db67ba616316b9e90a59fa6b2c *inst/java/tabula.jar
+b49cab347b4d49847c29671e4795ed42 *java/README.md
+4c6d25b90c91a1feec45c03f98ae4354 *man/tabulizerjars.Rd
